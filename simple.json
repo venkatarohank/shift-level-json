@@ -1,0 +1,22 @@
+{
+  "booksAuthor": {
+    "books": {
+      "B1": "blah",
+      "B2": "bath?",
+
+      "ratingsNovels": {
+        "booksWritten": {
+          "B1": {
+            "asds":"asd"
+          },
+          "B2": ["sdfsdf","dsfsd"],
+          "novelsWritten": "",
+          "authorWritten": "",
+          "aut": {
+            "B2": "asdf"
+          }
+        }
+      }
+    }
+  }
+}
